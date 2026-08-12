@@ -25,3 +25,6 @@
 [submodule "tools/task-observer"]
 	path = tools/task-observer
 	url = https://github.com/rebelytics/one-skill-to-rule-them-all.git
+[submodule "tools/strix"]
+	path = tools/strix
+	url = https://github.com/usestrix/strix.git
