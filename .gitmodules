@@ -19,3 +19,6 @@
 [submodule "tools/litellm"]
 	path = tools/litellm
 	url = https://github.com/BerriAI/litellm.git
+[submodule "tools/code-review-graph"]
+	path = tools/code-review-graph
+	url = https://github.com/tirth8205/code-review-graph.git
