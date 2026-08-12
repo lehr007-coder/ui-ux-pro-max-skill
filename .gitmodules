@@ -22,3 +22,6 @@
 [submodule "tools/code-review-graph"]
 	path = tools/code-review-graph
 	url = https://github.com/tirth8205/code-review-graph.git
+[submodule "tools/task-observer"]
+	path = tools/task-observer
+	url = https://github.com/rebelytics/one-skill-to-rule-them-all.git
