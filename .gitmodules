@@ -1,0 +1,18 @@
+[submodule "tools/agent-reach"]
+	path = tools/agent-reach
+	url = https://github.com/Panniantong/Agent-Reach.git
+[submodule "tools/claude-mem"]
+	path = tools/claude-mem
+	url = https://github.com/thedotmack/claude-mem.git
+[submodule "tools/markitdown"]
+	path = tools/markitdown
+	url = https://github.com/microsoft/markitdown.git
+[submodule "tools/public-apis"]
+	path = tools/public-apis
+	url = https://github.com/public-apis/public-apis.git
+[submodule "tools/ruflo"]
+	path = tools/ruflo
+	url = https://github.com/ruvnet/ruflo.git
+[submodule "tools/ecc"]
+	path = tools/ecc
+	url = https://github.com/affaan-m/ECC.git
