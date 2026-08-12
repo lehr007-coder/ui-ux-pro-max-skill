@@ -16,3 +16,6 @@
 [submodule "tools/ecc"]
 	path = tools/ecc
 	url = https://github.com/affaan-m/ECC.git
+[submodule "tools/litellm"]
+	path = tools/litellm
+	url = https://github.com/BerriAI/litellm.git
